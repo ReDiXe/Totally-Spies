@@ -1,0 +1,69 @@
+"Qu'est-ce que GitHub ?"
+Réponse : GitHub est une plateforme de gestion de développement logiciel basée sur Git.
+
+"qu'est ce que git ? "
+Git est un système de contrôle de version distribué utilisé pour suivre les modifications du code source et faciliter la collaboration entre les développeurs.
+
+"Qui et quand a été crée github ?"
+GitHub a été créé en avril 2008 par Tom Preston-Werner, Chris Wanstrath, et PJ Hyett
+
+"quel est le but de github ? "
+Le but de GitHub est de fournir une plateforme de gestion de développement logiciel qui facilite la collaboration, le suivi des versions, et la gestion de projets, en utilisant Git comme système de contrôle de version. Elle vise à simplifier le développement collaboratif et à rendre le code source plus accessible.
+
+"quelles sont les différences entre github et gitlab ?" 
+
+    Propriété :
+        GitHub : Propriété de Microsoft.
+        GitLab : Open source et disponible en édition libre (Community Edition) ainsi qu'en édition Enterprise (payante).
+
+
+    Hébergement :
+        GitHub : Propose un service d'hébergement de code en ligne, ainsi que des fonctionnalités de collaboration.
+        GitLab : Peut être utilisé en tant que service d'hébergement en ligne ou installé localement sur vos propres serveurs.
+
+
+    Fonctionnalités d'entreprise :
+        GitHub : Dispose d'une édition Enterprise avec des fonctionnalités de sécurité et de conformité avancées pour les grandes organisations.
+        GitLab : Propose également des fonctionnalités avancées pour les entreprises dans son édition payante.
+
+
+    Intégration continue (CI/CD) :
+        GitHub : Propose GitHub Actions pour l'intégration continue et le déploiement continu.
+        GitLab : Offre des fonctionnalités CI/CD intégrées dans toutes les éditions, y compris l'édition libre.
+
+
+    Personnalisation :
+        GitHub : Peut être étendu avec des applications tierces via le GitHub Marketplace.
+        GitLab : Offre une personnalisation étendue et la possibilité d'héberger des applications tierces.
+
+
+    Accessibilité :
+        GitHub : Interface utilisateur élégante et conviviale, mais certaines fonctionnalités peuvent être limitées dans l'édition gratuite.
+        GitLab : Interface utilisateur fonctionnelle et personnalisable, avec plus de fonctionnalités gratuites.
+
+
+    Tarification :
+        GitHub : Propose une version gratuite avec des fonctionnalités limitées, ainsi que des options payantes pour les entreprises.
+        GitLab : Offre une édition libre (Community Edition) gratuite avec de nombreuses fonctionnalités, ainsi que des éditions payantes avec des fonctionnalités avancées.
+
+
+    Emplacement des serveurs :
+        GitHub : Héberge ses serveurs principaux aux États-Unis.
+        GitLab : Permet d'auto-héberger sur des serveurs dans le monde entier.
+
+(elles restent cela dis un peu similaire)
+
+"quoi choisir entre github et gitlab ?" 
+Le choix entre GitHub et GitLab dépendra des besoins spécifiques de votre projet ou de votre organisation, ainsi que de vos préférences en matière de tarification et d'hébergement.
+
+"quelle est la signification du mot "github" ?"
+Le nom GitHub est composé du mot « git » faisant référence à un système de contrôle de version open-source et le mot « hub » faisant référence au réseau social bâti autour du système Git, mais aussi à une plate-forme de correspondance qui est appelée en anglais un « hub ».
+
+"pourquoi a t'on eu le besoin de crée github ?"
+pour pouvoir réaliser des projets et travail de groupe plus important 
+
+"quel est le rapport entre git et github et gitlab ?" 
+des mecs ont créés github et gitlab en utilisant le GUI de git
+
+"est ce que git existe toujours ?"
+oui.
