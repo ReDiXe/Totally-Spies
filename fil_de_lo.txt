@@ -1,0 +1,53 @@
+Séance du vendredi 29 septembre de 10h à 12h : Introduction à Kanban
+
+- Objectifs :
+  - Comprendre les concepts de base de la méthode Kanban.
+  - Identifier les principaux avantages de l'utilisation de Kanban dans la gestion de projet.
+
+- Activités :
+  - Présentation des membres du groupe.
+  - Introduction à la méthode Kanban : origines, principes, et objectifs.
+  - Discussion sur les domaines d'application de Kanban.
+  - Réflexion sur les problèmes de gestion de projet auxquels la méthode Kanban pourrait apporter des solutions.
+
+- Apprentissages clés :
+  - Compréhension des principes fondamentaux de Kanban.
+  - Sensibilisation aux avantages potentiels de Kanban dans la gestion de projets.
+  
+- Recerche : 
+  - Utilisation de chat gpt et de documentation en ligne. 
+
+Séance du vendredi 06 octobre de 10h à 12h : Mise en place de Kanban
+
+- Objectifs :
+  - Approfondir la connaissance de la méthode Kanban.
+  - Apprendre à concevoir un tableau Kanban pour la gestion de tâches.
+
+- Activités :
+  - Revue des concepts clés de la méthode Kanban.
+  - Examen des étapes pour la création d'un tableau Kanban.
+  - Création d'un tableau Kanban pour un exemple de projet.
+  - Discussion sur les types de colonnes, les limites de travail en cours, et les règles de flux.
+
+- Apprentissages clés :
+  - Création d'un tableau Kanban simple.
+  - Compréhension des principes de la gestion visuelle et des limites de travail en cours.
+
+Séance du vendredi 13 octobre de 10h à 12h : Application de Kanban
+
+- Objectifs :
+  - Appliquer la méthode Kanban à un cas concret.
+  - Explorer les défis potentiels et les meilleures pratiques dans l'utilisation de Kanban.
+
+- Activités :
+  - Utilisation du tableau Kanban créé lors de la session précédente pour gérer des tâches réelles.
+  - Discussion sur les avantages et les défis rencontrés lors de l'application de Kanban.
+  - Échange sur les meilleures pratiques pour optimiser l'utilisation de Kanban.
+
+- Apprentissages clés :
+  - Application pratique de Kanban pour gérer des tâches.
+  - Identification des obstacles potentiels et des ajustements nécessaires.
+
+Jeudi 19/10/2023 : 
+	- reformulation du fil de l'eau à l'aide du merveilleux outil chat gpt. 
+	
