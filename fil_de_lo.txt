@@ -49,5 +49,8 @@ Séance du vendredi 13 octobre de 10h à 12h : Application de Kanban
   - Identification des obstacles potentiels et des ajustements nécessaires.
 
 Jeudi 19/10/2023 : 
-	- reformulation du fil de l'eau à l'aide du merveilleux outil chat gpt. 
+	- reformulation du fil de l'eau à l'aide du merveilleux outil chat gpt.
+
+Vendredi 20/10/2023 :
+	-écoute de l'autre groupe faisant kanban, création d'un powerpoint en consequence
 	
